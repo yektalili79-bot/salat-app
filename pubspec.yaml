@@ -1,0 +1,12 @@
+name: salat
+description: Salat - همون اپ عالی
+publish_to: 'none'
+version: 1.0.0+4
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+flutter:
+  uses-material-design: true
